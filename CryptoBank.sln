@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBank", "CryptoBank\CryptoBank.csproj", "{050A5D72-A341-4BB8-8569-B8E0CB0E71A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{050A5D72-A341-4BB8-8569-B8E0CB0E71A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050A5D72-A341-4BB8-8569-B8E0CB0E71A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050A5D72-A341-4BB8-8569-B8E0CB0E71A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050A5D72-A341-4BB8-8569-B8E0CB0E71A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2655839F-A0BD-409C-872E-2A047E664493}
+	EndGlobalSection
+EndGlobal
